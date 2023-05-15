@@ -1,7 +1,7 @@
 ## Hola! Soy Alberto Eizaguerri 👋👋
 ### **Bienvenid@ a mi GitHub**
 
-Mi nombre es Alberto Eizaguerri, estudié Química en la Universidad de Zaragoza y al terminar la carrerá, decidí tomar un camino algo distinto y dedicarme a un campo algo distinto. Actualmente, me encuentro estudiando el Máster en Big Data & Data Science en la UCM, donde he podido combinar la base estadística que me proporcionó la carrera con el novedoso mundo del la ciencia de datos.
+Mi nombre es Alberto Eizaguerri, estudié Química en la Universidad de Zaragoza y al terminar la carrerá, decidí tomar un camino algo distinto al que suele ser común en las carreras científicas. Actualmente, me encuentro estudiando el Máster en Big Data & Data Science de la UCM, donde he podido combinar la base estadística que me proporcionó la carrera con el novedoso mundo del la ciencia de datos.
 
 En mi perfil de **GitHub** podrás encontrar algunos de mis proyectos personales y varias pruebas de distintas tecnologías.
 
