@@ -22,10 +22,12 @@ En mi perfil de **GitHub** podrás encontrar algunos de mis proyectos personales
 
 ### Proyectos:
 
-- Prueba backend con FastAPI
-[![Back End FastAPI](https://img.shields.io/github/stars/aeizaguerri/prueba-BackEnd-FastAPI?label=BackEnd%20FastAPI&style=social)](https://github.com/aeizaguerri/prueba-BackEnd-FastAPI)
 - Data Driven Competition: Pump It Up! 
 [![Pump It Up!](https://img.shields.io/github/stars/aeizaguerri/Pump-It-Up-Data---Driven-Challenge?label=Pump%20It%20Up&style=social)](https://github.com/aeizaguerri/Pump-It-Up-Data---Driven-Challenge)
+
+- Prueba backend con FastAPI
+[![Back End FastAPI](https://img.shields.io/github/stars/aeizaguerri/prueba-BackEnd-FastAPI?label=BackEnd%20FastAPI&style=social)](https://github.com/aeizaguerri/prueba-BackEnd-FastAPI)
+
 
 ## Encuentrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto_eizaguerri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aeizaguerri)
